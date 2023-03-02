@@ -45,9 +45,7 @@
       "resource": "WebOfLies_adaptive_bounce.png"
     },
     {
-      "adaptive": false,
       "author": "SeaGirl",
-      "bounce": false,
       "climbresource": "Tea_climb.png",
       "condition": "None",
       "name": "TeaCup",
@@ -55,6 +53,16 @@
       "reshasha": "b83ecf0197e86cb8cbb41bd441bf6bb6",
       "reshashc": "99e7d1d27624e34cf1d10382b5cc8364",
       "resource": "Tea.png"
+    },
+    {
+      "author": "SeaGirl",
+      "climbresource": "Pyro_climb.png",
+      "condition": "None",
+      "name": "Pyro",
+      "package": "StellarHats",
+      "reshasha": "66df78194f14b9ddc9db41329dcd8ad7",
+      "reshashc": "97f922a5fcd10d1442ec5c5a04f61e1e",
+      "resource": "Pyro_front.png"
     }
   ]
 }
