@@ -20,7 +20,7 @@
     //},
     {
       "adaptive": true,
-      "author": "ShieldedLion",
+      "author": "ShieldLion",
       "bounce": true,
       "climbresource": "ballerina_adaptive_climb.png",
       "condition": "None",
@@ -32,7 +32,7 @@
     },
     {
       "adaptive": true,
-      "author": "ShieldedLion",
+      "author": "ShieldLion",
       "backresource": "WebOfLies_adaptive_bounce_back.png",
       "bounce": true,
       "climbresource": "WebOfLies_adaptive_climb.png",
@@ -63,6 +63,29 @@
       "reshasha": "66df78194f14b9ddc9db41329dcd8ad7",
       "reshashc": "97f922a5fcd10d1442ec5c5a04f61e1e",
       "resource": "Pyro_front.png"
+    },
+    {
+      "author": "SeaGirl",
+      "climbresource": "Lampshade_climb.png",
+      "condition": "None",
+      "name": "Lampshade",
+      "package": "StellarHats",
+      "reshasha": "d1715f48f3e44e14876f50b49d7aadbd",
+      "reshashc": "b814e1f6d8f57763a998eaf0e6a0e3fc",
+      "resource": "Lampshade_front.png"
+    },
+    {
+      "adaptive": true,
+      "author": "ShieldLion",
+      "climbresource": "cloaked_climb_adaptive.png",
+      "backresource": "cloaked_back_adaptive",
+      "condition": "None",
+      "name": "Cloaked",
+      "package": "StellarHats",
+      "reshasha": "82ca416549936f29a8245bb117cd07fc",
+      "reshashb": "5382afd7421986b93262efe4108750b0",
+      "reshashc": "a1d4706d50afbc77c78c0e18c63ae546",
+      "resource": "cloaked_adaptive_bounce.png"
     }
   ]
 }
