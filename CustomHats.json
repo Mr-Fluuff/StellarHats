@@ -76,6 +76,7 @@
     },
     {
       "adaptive": true,
+      "bounce": true,
       "author": "ShieldLion",
       "climbresource": "cloaked_climb_adaptive.png",
       "backresource": "cloaked_back_adaptive.png",
