@@ -78,7 +78,7 @@
       "adaptive": true,
       "author": "ShieldLion",
       "climbresource": "cloaked_climb_adaptive.png",
-      "backresource": "cloaked_back_adaptive",
+      "backresource": "cloaked_back_adaptive.png",
       "condition": "None",
       "name": "Cloaked",
       "package": "StellarHats",
