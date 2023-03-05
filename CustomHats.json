@@ -82,9 +82,9 @@
       "condition": "None",
       "name": "Cloaked",
       "package": "StellarHats",
-      "reshasha": "82ca416549936f29a8245bb117cd07fc",
-      "reshashb": "5382afd7421986b93262efe4108750b0",
-      "reshashc": "a1d4706d50afbc77c78c0e18c63ae546",
+      "reshasha": "37133b0f287d80c9722580c2fe8f5b91",
+      "reshashb": "59be98b2179a6552fe59df6846d614e5",
+      "reshashc": "f449a028074f68c010434c24ea1c6ea5",
       "resource": "cloaked_adaptive_bounce.png"
     }
   ]
