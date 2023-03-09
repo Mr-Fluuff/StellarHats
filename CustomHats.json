@@ -94,9 +94,9 @@
       "climbresource": "HollowNight_climb_adaptive.png",
       "backresource": "HollowNight_adaptive_back.png",
       "condition": "None",
-      "name": "HollowKnight",
+      "name": "HKnight",
       "package": "StellarHats",
-      "reshasha": "ca977f9ed8a6b4f99e65340e12ff67c3",
+      "reshasha": "fd0da7ff66898266e3038a9a5fbe0e3d",
       "reshashb": "05ab240d621cc54582d0272e92647156",
       "reshashc": "a735f66985283a8aba474dfab7ab2ebe",
       "resource": "HollowNight_adaptive.png"
