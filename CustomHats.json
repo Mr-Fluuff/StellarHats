@@ -96,7 +96,7 @@
       "condition": "None",
       "name": "HollowKnight",
       "package": "StellarHats",
-      "reshasha": "0542569b9e93d4aa655d4746d0b166b5",
+      "reshasha": "ca977f9ed8a6b4f99e65340e12ff67c3",
       "reshashb": "05ab240d621cc54582d0272e92647156",
       "reshashc": "a735f66985283a8aba474dfab7ab2ebe",
       "resource": "HollowNight_adaptive.png"
@@ -109,7 +109,7 @@
       "condition": "None",
       "name": "Sheriff",
       "package": "StellarHats",
-      "reshasha": "ca977f9ed8a6b4f99e65340e12ff67c3",
+      "reshasha": "6081d5b55a7aa1b5f3110a3ff57ba457",
       "reshashc": "2348fbf2551d3b4a3471ca55356103e6",
       "resource": "Sheriff_bounce.png"
     }
