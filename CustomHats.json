@@ -102,7 +102,6 @@
       "resource": "HollowNight_adaptive.png"
     },
     {
-      "adaptive": true,
       "bounce": true,
       "author": "Cheetah",
       "climbresource": "Sheriff_climb.png",
