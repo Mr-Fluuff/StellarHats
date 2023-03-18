@@ -1,22 +1,22 @@
 {
   "hats": [
     //{
-      //"adaptive": false,
-      //"author": "",
-      //"backresource": "backresourcefilename",
-      //"backflipresource": "backflipfilename",
-      //"bounce": true,
-      //"climbresource": "climbfilename",
-      //"condition": "None",
-      //"flipresource": "flipfilename",
-      //"name": "name",
-      //"package": "StellarHats",
-      //"reshasha": "resourcehash",
-      //"reshashb": "backhash",
-      //"reshashc": "climbhash",
-      //"reshashbf": "backfliphash",
-      //"reshashf": "fliphash",
-      //"resource": "resourcefilename"
+    //"adaptive": false,
+    //"author": "",
+    //"backresource": "backresourcefilename",
+    //"backflipresource": "backflipfilename",
+    //"bounce": true,
+    //"climbresource": "climbfilename",
+    //"condition": "None",
+    //"flipresource": "flipfilename",
+    //"name": "name",
+    //"package": "StellarHats",
+    //"reshasha": "resourcehash",
+    //"reshashb": "backhash",
+    //"reshashc": "climbhash",
+    //"reshashbf": "backfliphash",
+    //"reshashf": "fliphash",
+    //"resource": "resourcefilename"
     //},
     {
       "adaptive": true,
@@ -100,6 +100,19 @@
       "reshashb": "05ab240d621cc54582d0272e92647156",
       "reshashc": "63536888946b370e0de3d83604132db7",
       "resource": "HollowNight_adaptive.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
+      "climbresource": "Serpent_climb.png",
+      "backresource": "Serpent_adaptive_back.png",
+      "condition": "None",
+      "name": "Serpent",
+      "package": "StellarHats",
+      "reshasha": "72948d1e01217a9d5018fe67b51d032a",
+      "reshashb": "83553c59bd1bbacaac79b9319f55896c",
+      "reshashc": "d790b2678bb99725fee4f4d54b6ff35e",
+      "resource": "Serpent_adaptive.png"
     },
     {
       "bounce": true,
