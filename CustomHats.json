@@ -128,6 +128,18 @@
       "resource": "Serpent_adaptive.png"
     },
     {
+      "author": "Cheetah",
+      "climbresource": "Mochi_climb.png",
+      "backresource": "Mochi_flip.png",
+      "condition": "None",
+      "name": "Mochi",
+      "package": "StellarHats",
+      "reshasha": "937ac737a58cf84cb6f9a562dddadc08",
+      "reshashb": "633e5b8308ec368dd942337ab7d18d24",
+      "reshashc": "1b12ed9abc5baf3012fc088f0f84adcd",
+      "resource": "Mochi.png"
+    },
+    {
       "bounce": true,
       "author": "Cheetah",
       "climbresource": "Sheriff_climb.png",
