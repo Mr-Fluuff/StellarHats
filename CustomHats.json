@@ -130,7 +130,7 @@
     {
       "author": "Cheetah",
       "climbresource": "Mochi_climb.png",
-      "backresource": "Mochi_flip.png",
+      "flipresource": "Mochi_flip.png",
       "condition": "None",
       "name": "Mochi",
       "package": "StellarHats",
