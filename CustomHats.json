@@ -104,6 +104,19 @@
     {
       "adaptive": true,
       "author": "Cheetah",
+      "climbresource": "LanternFish_climb.png",
+      "backresource": "LanternFish_adaptive_back.png",
+      "condition": "None",
+      "name": "Angler Fish",
+      "package": "StellarHats",
+      "reshasha": "f24b637265cc0451f142800398e537bb",
+      "reshashb": "392b15608f13dcd4e0a3585effb6f87d",
+      "reshashc": "c45460d10a1fb81a60bd4914a6baad82",
+      "resource": "LanternFish_adaptive.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
       "climbresource": "HollowNight_climb_adaptive.png",
       "backresource": "HollowNight_adaptive_back.png",
       "condition": "None",
