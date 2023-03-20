@@ -67,6 +67,18 @@
       "resource": "Tea.png"
     },
     {
+      "author": "Stell",
+      "climbresource": "angycloud1.png",
+      "condition": "None",
+      "name": "Angry Cloud",
+      "package": "StellarHats",
+      "reshasha": "11e873febb4f1b7419cce2e68f3c4dad",
+      "reshashc": "11e873febb4f1b7419cce2e68f3c4dad",
+	"animation": ["angycloud1.png","angycloud2.png","angycloud3.png","angycloud4.png","angycloud5.png","angycloud6.png"],
+      "resource": "angycloud1.png"
+    },
+
+    {
       "author": "SeaGirl",
       "climbresource": "Pyro_climb.png",
       "condition": "None",
