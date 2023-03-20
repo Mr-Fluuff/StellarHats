@@ -48,7 +48,7 @@
       "adaptive": true,
       "author": "ShieldLion",
       "bounce": true,
-      "climbresource": "CrayonVex_adaptive_climb",
+      "climbresource": "CrayonVex_adaptive_climb.png",
       "condition": "None",
       "name": "CrayonVex",
       "package": "StellarHats",
