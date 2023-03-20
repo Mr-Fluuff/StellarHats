@@ -45,6 +45,18 @@
       "resource": "WebOfLies_adaptive_bounce.png"
     },
     {
+      "adaptive": true,
+      "author": "ShieldLion",
+      "bounce": true,
+      "climbresource": "CrayonVex_adaptive_climb",
+      "condition": "None",
+      "name": "CrayonVex",
+      "package": "StellarHats",
+      "reshasha": "2791a88de374fbb649e0c11b313a0e3c",
+      "reshashc": "a2a094a7f42cd8383ab3150bbc0bcf2f",
+      "resource": "CrayonVex_adaptive.png"
+    },
+    {
       "author": "SeaGirl",
       "climbresource": "Tea_climb.png",
       "condition": "None",
