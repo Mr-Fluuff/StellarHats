@@ -71,24 +71,20 @@
     },
     {
       "author": "Stell",
-      "climbresource": "angycloud1.png",
       "condition": "None",
       "name": "Angry Cloud",
       "package": "Animated Hats",
-      "reshasha": "11e873febb4f1b7419cce2e68f3c4dad",
-      "reshashc": "11e873febb4f1b7419cce2e68f3c4dad",
+      "reshasha": "89c9d67ca5efbbb5839105ec9818b425",
       "animationprefix": "angycloud",
       "animationframes": "44",
-      "resource": "angycloud0.png"
+      "resource": "angycloud_000.png"
     },
     {
       "author": "Stell",
-      "climbresource": "happycloud0.png",
       "condition": "None",
       "name": "Happy Cloud",
       "package": "Animated Hats",
       "reshasha": "81c8937aea574859088918868bdee813",
-      "reshashc": "d9fda33d1719be466d81dafe57458020",
       "animationprefix": "happycloud",
       "animationframes": "20",
       "resource": "happycloud0.png"
