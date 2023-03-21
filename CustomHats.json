@@ -78,10 +78,21 @@
       "reshasha": "11e873febb4f1b7419cce2e68f3c4dad",
       "reshashc": "11e873febb4f1b7419cce2e68f3c4dad",
       "animationprefix": "angycloud",
-      "animationframes" : "44",
+      "animationframes": "44",
       "resource": "angycloud0.png"
     },
-
+    {
+      "author": "Stell",
+      "climbresource": "happycloud0.png",
+      "condition": "None",
+      "name": "Happy Cloud",
+      "package": "StellarHats",
+      "reshasha": "81c8937aea574859088918868bdee813",
+      "reshashc": "d9fda33d1719be466d81dafe57458020",
+      "animationprefix": "happycloud",
+      "animationframes": "20",
+      "resource": "happycloud0.png"
+    },
     {
       "author": "SeaGirl",
       "climbresource": "Pyro_climb.png",
