@@ -82,6 +82,16 @@
     {
       "author": "Stell",
       "condition": "None",
+      "name": "Sad Cloud",
+      "package": "Animated Hats",
+      "reshasha": "0ad2ed17c4fcc54199fe4d41291a59b6",
+      "animationprefix": "sadcloud",
+      "animationframes": "21",
+      "resource": "sadcloud_000.png"
+    },
+    {
+      "author": "Stell",
+      "condition": "None",
       "name": "Happy Cloud",
       "package": "Animated Hats",
       "reshasha": "81c8937aea574859088918868bdee813",
