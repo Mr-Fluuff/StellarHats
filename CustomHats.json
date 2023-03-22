@@ -123,9 +123,11 @@
       "author": "Kyra",
       "condition": "None",
       "name": "Pigeon",
-      "package": "StellarHats",
-      "reshasha": "48e409120ea0f1bcb3915c78ff524892",
-      "resource": "pigeonhat.png"
+      "package": "Animated Hats",
+      "reshasha": "941e9c3df84d97c3743656f0889e6162",
+      "animationprefix": "pidgeonhat",
+      "animationframes": "50",
+      "resource": "pidgeonhat_000.png"
     },
     {
       "adaptive": true,
