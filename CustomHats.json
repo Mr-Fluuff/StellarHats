@@ -120,6 +120,14 @@
       "resource": "Lampshade_front.png"
     },
     {
+      "author": "Kyra",
+      "condition": "None",
+      "name": "Pigeon",
+      "package": "StellarHats",
+      "reshasha": "837c05e07d646ca1fc50832626b83c08",
+      "resource": "pigeonhat.png"
+    },
+    {
       "adaptive": true,
       "bounce": true,
       "author": "ShieldLion",
