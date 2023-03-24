@@ -84,9 +84,9 @@
       "condition": "None",
       "name": "Sad Cloud",
       "package": "Animated Hats",
-      "reshasha": "0ad2ed17c4fcc54199fe4d41291a59b6",
+      "reshasha": "52d2c971eca71a09f160f34656700ced",
       "animationprefix": "sadcloud",
-      "animationframes": "21",
+      "animationframes": "32",
       "resource": "sadcloud_000.png"
     },
     {
