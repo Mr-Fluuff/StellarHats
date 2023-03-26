@@ -61,6 +61,36 @@
     },
     {
       "author": "SeaGirl",
+      "climbresource": "snail_climb.png",
+      "condition": "None",
+      "name": "Snail",
+      "package": "StellarHats",
+      "reshasha": "f7b0be1fee43fcc402c41cd8660b79d1",
+      "reshashc": "c2f7ade7707c7b87b78b22a72f629374",
+      "resource": "snail_front.png"
+    },
+    {
+      "author": "SeaGirl",
+      "climbresource": "moon_climb.png",
+      "condition": "None",
+      "name": "Moon",
+      "package": "StellarHats",
+      "reshasha": "3942c631d0b81310a908e4f8fa93ecab",
+      "reshashc": "87e6389b2d3700246be2e0eb761ee73d",
+      "resource": "sleep_front.png"
+    },
+    {
+      "author": "SeaGirl",
+      "climbresource": "sleep_climb.png",
+      "condition": "None",
+      "name": "Sleep",
+      "package": "StellarHats",
+      "reshasha": "f4e3a4aff5f5c5e39ff01255bba6c8eb",
+      "reshashc": "c9e7c65b206c1bb3bb291d0db2b547b2",
+      "resource": "sleep_front.png"
+    },
+    {
+      "author": "SeaGirl",
       "climbresource": "Tea_climb.png",
       "condition": "None",
       "name": "TeaCup",
