@@ -35,6 +35,19 @@
     },
     {
       "adaptive": true,
+      "author": "Fluff",
+      "climbresource": "ferret_adaptive_climb.png",
+      "backresource": "ferret_back_adaptive.png",
+      "condition": "None",
+      "name": "Ferret",
+      "package": "StellarHats",
+      "reshasha": "93adbb8d82a50df6c46b896806bb8021",
+      "reshashb": "741b898a9bf2e02edfb9b2060dfb76a6",
+      "reshashc": "79a85f0b4b58a4a332df29611db4b91c",
+      "resource": "ferret_adaptive.png"
+    },
+    {
+      "adaptive": true,
       "author": "ShieldLion",
       "backresource": "WebOfLies_adaptive_bounce_back.png",
       "bounce": true,
