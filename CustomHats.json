@@ -100,6 +100,16 @@
       "resource": "Tea.png"
     },
     {
+      "author": "Cheetah",
+      "climbresource": "beret_climb.png",
+      "condition": "None",
+      "name": "Beret",
+      "package": "StellarHats",
+      "reshasha": "73a6768f7eb4f6e3ee5d9276364ecd56",
+      "reshashc": "a8d55d55c2441c9c0eda4a0ddb21df6b",
+      "resource": "beret.png"
+    },
+    {
       "author": "Stell",
       "condition": "None",
       "name": "Angry Cloud",
@@ -185,6 +195,17 @@
       "reshashb": "6d9c09292b69a817c3e109dc2e7944c4",
       "reshashc": "3288bde892486f44686817a67c154055",
       "resource": "squirrel_adaptive.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
+      "climbresource": "Wolf_climb_adaptive.png",
+      "condition": "None",
+      "name": "Wolf",
+      "package": "StellarHats",
+      "reshasha": "2634d5d90920bbd6c2ee1e37f42790e8",
+      "reshashc": "99fa5bec52a952de12faaef48f77aed1",
+      "resource": "Wolf_adaptive.png"
     },
     {
       "adaptive": true,
