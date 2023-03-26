@@ -113,16 +113,6 @@
       "resource": "Tea.png"
     },
     {
-      "author": "Cheetah",
-      "climbresource": "beret_climb.png",
-      "condition": "None",
-      "name": "Beret",
-      "package": "StellarHats",
-      "reshasha": "73a6768f7eb4f6e3ee5d9276364ecd56",
-      "reshashc": "a8d55d55c2441c9c0eda4a0ddb21df6b",
-      "resource": "beret.png"
-    },
-    {
       "author": "Stell",
       "condition": "None",
       "name": "Angry Cloud",
