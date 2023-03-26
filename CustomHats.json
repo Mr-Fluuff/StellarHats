@@ -93,6 +93,28 @@
       "resource": "moon_front.png"
     },
     {
+      "author": "Crayonvex",
+      "climbresource": "fish_climb.png",
+      "flipresource": "fish_flip.png",
+      "condition": "None",
+      "name": "Fish",
+      "package": "StellarHats",
+      "reshasha": "e16aa67017152629ec9a1b3f111977a6",
+      "reshashc": "9da2515ae6c1b495d31d70da77c9394d",
+      "reshashf": "0c89bbe9a6748590eeb90e4844013d78",
+      "resource": "fish.png"
+    },
+    {
+      "author": "Crayonvex",
+      "climbresource": "19egg_climb.png",
+      "condition": "None",
+      "name": "19Egg",
+      "package": "StellarHats",
+      "reshasha": "83decffb941b900a82edefd580c8c1c5",
+      "reshashc": "6caf1f48cbb25b0365065ec0d31aa2ec",
+      "resource": "19egg.png"
+    },
+    {
       "author": "SeaGirl",
       "climbresource": "sleep_climb.png",
       "condition": "None",
