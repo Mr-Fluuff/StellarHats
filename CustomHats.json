@@ -145,6 +145,16 @@
       "resource": "angycloud_000.png"
     },
     {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "5up",
+      "package": "Animated Hats",
+      "reshasha": "f11502f819b7fac0c5d3ba284a843f73",
+      "animationprefix": "5up",
+      "animationframes": "10",
+      "resource": "5up_000.png"
+    },
+    {
       "author": "Stell",
       "condition": "None",
       "name": "Sad Cloud",
