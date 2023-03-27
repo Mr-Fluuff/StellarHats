@@ -237,6 +237,19 @@
     {
       "adaptive": true,
       "author": "Cheetah",
+      "climbresource": "OldMan_climb.png",
+      "backresource": "OldMan_adaptive_back.png",
+      "condition": "None",
+      "name": "OldMan",
+      "package": "StellarHats",
+      "reshasha": "3a595905e05833eb386b992bbc113615",
+      "reshashb": "bcaa29a338536f44f6c940b5a889cbab",
+      "reshashc": "da18f9f3f4a2b6578495750475d85d9e",
+      "resource": "OldMan_adaptive.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
       "climbresource": "LanternFish_climb.png",
       "backresource": "LanternFish_adaptive_back.png",
       "condition": "None",
