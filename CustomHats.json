@@ -225,10 +225,12 @@
       "adaptive": true,
       "author": "Cheetah",
       "climbresource": "Wolf_climb_adaptive.png",
+      "backresource": "Wolf_adaptive_back.png",
       "condition": "None",
       "name": "Wolf",
       "package": "StellarHats",
-      "reshasha": "2634d5d90920bbd6c2ee1e37f42790e8",
+      "reshasha": "c9bdcf1a52011feab1dc5fc4794ae827",
+      "reshashb": "afa42209eb2655490655878eb233712e",
       "reshashc": "99fa5bec52a952de12faaef48f77aed1",
       "resource": "Wolf_adaptive.png"
     },
