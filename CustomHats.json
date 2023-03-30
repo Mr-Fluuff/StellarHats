@@ -244,6 +244,17 @@
     {
       "adaptive": true,
       "author": "Cheetah",
+      "climbresource": "Tuque_climb_adaptive.png",
+      "condition": "None",
+      "name": "Tuque",
+      "package": "StellarHats",
+      "reshasha": "8c7c730d6f2c17a1de5df190944227f8",
+      "reshashc": "18f666583f29c00ef905870abf614d70",
+      "resource": "Tuque_adaptive.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
       "climbresource": "Wolf_climb_adaptive.png",
       "backresource": "Wolf_adaptive_back.png",
       "condition": "None",
@@ -253,6 +264,32 @@
       "reshashb": "afa42209eb2655490655878eb233712e",
       "reshashc": "99fa5bec52a952de12faaef48f77aed1",
       "resource": "Wolf_adaptive.png"
+    },
+    {
+      "bounce": true,
+      "author": "Cheetah",
+      "climbresource": "Raccoon_climb.png",
+      "backresource": "Raccoon_back_bounce.png",
+      "condition": "None",
+      "name": "Raccoon",
+      "package": "StellarHats",
+      "reshasha": "5d8a3b8660de2bf42806a94333e9f792",
+      "reshashb": "fe87d82d89711a6c4a736a05307f841a",
+      "reshashc": "03f00847dca9ef08d5d19b6c399a837d",
+      "resource": "Raccoon_bounce.png"
+    },
+    {
+      "bounce": true,
+      "author": "Cheetah",
+      "climbresource": "RedPanda_climb.png",
+      "backresource": "RedPanda_back.png",
+      "condition": "None",
+      "name": "RedPanda",
+      "package": "StellarHats",
+      "reshasha": "2eefbf982eff2fd61da68ebb6fa9ee53",
+      "reshashb": "18892243cfa07a5926193333e0bb8ca1",
+      "reshashc": "70239e1c44339017094435bba747dbdb",
+      "resource": "RedPanda_bounce.png"
     },
     {
       "adaptive": true,
