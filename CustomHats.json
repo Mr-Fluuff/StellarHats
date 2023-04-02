@@ -175,6 +175,20 @@
       "resource": "sadcloud_000.png"
     },
     {
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "Hermes",
+      "package": "Animated Hats",
+      "reshasha": "f49109c94f917f21c7b542fecc76fa0e",
+      "reshashb": "3cbaca4b959b704d4b680f2ca86524bf",
+      "animationprefix": "HermesFront",
+      "backanimationprefix": "HermesBack",
+      "animationframes": "6",
+      "resource": "HermesFront_000.png",
+      "backresource": "HermesBack_000.png"
+
+    },
+    {
       "author": "Stell",
       "condition": "None",
       "name": "Happy Cloud",
