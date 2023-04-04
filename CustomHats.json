@@ -179,11 +179,11 @@
       "condition": "None",
       "name": "Hermes",
       "package": "Animated Hats",
-      "reshasha": "f49109c94f917f21c7b542fecc76fa0e",
-      "reshashb": "3cbaca4b959b704d4b680f2ca86524bf",
+      "reshasha": "1efb4406c62a156a56b93a9b95f2c652",
+      "reshashb": "480b58ee28ffdf2eb468e5d98fa323d0",
       "animationprefix": "HermesFront",
       "backanimationprefix": "HermesBack",
-      "animationframes": "6",
+      "animationframes": "11",
       "resource": "HermesFront_000.png",
       "backresource": "HermesBack_000.png"
 
