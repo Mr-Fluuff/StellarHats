@@ -200,6 +200,16 @@
     },
     {
       "author": "SeaGirl",
+      "condition": "None",
+      "name": "Stell",
+      "package": "Developer Hats",
+      "reshasha": "d69a4bbf8c58904fb067b24b0dc06c55",
+      "animationprefix": "Stell",
+      "animationframes": "24",
+      "resource": "Stell_000.png"
+    },
+    {
+      "author": "SeaGirl",
       "climbresource": "Pyro_climb.png",
       "condition": "None",
       "name": "Pyro",
