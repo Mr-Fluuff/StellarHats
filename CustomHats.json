@@ -266,6 +266,16 @@
       "resource": "squirrel_adaptive.png"
     },
     {
+      "author": "Cheetah",
+      "backresource": "BlueHair_back.png",
+      "condition": "None",
+      "name": "BlueHair",
+      "package": "StellarHats",
+      "reshasha": "616d6d6bd62c292e455d53e537b5ccef",
+      "reshashb": "59ba2b4f1402129d39eed6b5ff80dcc2",
+      "resource": "BlueHair.png"
+    },
+    {
       "adaptive": true,
       "author": "Cheetah",
       "climbresource": "Cow_adaptive_climb.png",
