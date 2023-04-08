@@ -239,6 +239,16 @@
       "resource": "pidgeonhat_000.png"
     },
     {
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "Pizza",
+      "package": "Animated Hats",
+      "reshasha": "1588dc2036b5d7a8f0a5e345d606f05a",
+      "animationprefix": "Pizza",
+      "animationframes": "17",
+      "resource": "Pizza_000.png"
+    },
+    {
       "adaptive": true,
       "bounce": true,
       "author": "ShieldLion",
