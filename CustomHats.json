@@ -277,6 +277,16 @@
     },
     {
       "author": "Cheetah",
+      "backresource": "UmbrellaHat_back.png",
+      "condition": "None",
+      "name": "Umbrella1",
+      "package": "StellarHats",
+      "reshasha": "d3fca56e1749fa101ec05c6cf3b03601",
+      "reshashb": "e318316a47b5b477e5121434531f691b",
+      "resource": "UmbrellaHat.png"
+    },
+    {
+      "author": "Cheetah",
       "backresource": "BlueHair_back.png",
       "condition": "None",
       "name": "BlueHair",
