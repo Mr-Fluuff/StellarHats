@@ -249,6 +249,16 @@
       "resource": "Pizza_000.png"
     },
     {
+      "author": "SeaGirl",
+      "condition": "None",
+      "name": "Rainbow",
+      "package": "Animated Hats",
+      "reshasha": "ebd43e9a62a4b5b2ca7b447430515ddc",
+      "animationprefix": "Rainbow",
+      "animationframes": "50",
+      "resource": "Rainbow_000.png"
+    },
+    {
       "adaptive": true,
       "bounce": true,
       "author": "ShieldLion",
