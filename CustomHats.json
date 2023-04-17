@@ -277,6 +277,16 @@
     },
     {
       "author": "Cheetah",
+      "climbresource": "ZeViking_climb.png",
+      "condition": "None",
+      "name": "ZeRoyalViking",
+      "package": "StellarHats",
+      "reshasha": "9b0359ce498470b1f97d4efe670502bb",
+      "reshashc": "49f6e05e01327119f734df00e6311538",
+      "resource": "ZeViking.png"
+    },
+    {
+      "author": "Cheetah",
       "backresource": "UmbrellaHat_back.png",
       "condition": "None",
       "name": "Umbrella1",
