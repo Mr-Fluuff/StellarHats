@@ -168,14 +168,14 @@
       "adaptive": true,
       "author": "Seagirl",
       "condition": "None",
-      "name": "FairyTest",
+      "name": "Fairy",
       "package": "Animated Hats",
       "reshashb": "6a5f77a279f592cdeb55e9e172c5e59f",
-      "reshasha": "96909d24e9ae1165fd05f7b59bc6ae54",
+      //"reshasha": "96909d24e9ae1165fd05f7b59bc6ae54",
       "backanimationprefix": "FairyBack",
       "animationframes": "22",
-      "resourceb": "FairyBack_000.png",
-      "resource": "Fairy.png"
+      "backresource": "FairyBack_000.png"
+      //"resource": "Fairy.png"
     },
     {
       "author": "Stell",
