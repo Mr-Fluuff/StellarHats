@@ -165,6 +165,17 @@
       "resource": "5up_000.png"
     },
     {
+      "adaptive": true,
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Fairy",
+      "package": "Animated Hats",
+      "reshashb": "6a5f77a279f592cdeb55e9e172c5e59f",
+      "backanimationprefix": "FairyBack",
+      "animationframes": "22",
+      "resourceb": "FairyBack_000.png"
+    },
+    {
       "author": "Stell",
       "condition": "None",
       "name": "Sad Cloud",
