@@ -170,7 +170,6 @@
       "condition": "None",
       "name": "Fairy",
       "package": "Animated Hats",
-      "bounce": true,
       "reshasha": "073a7b63dc5d8055e4ffcabd9baa03b7",
       "reshashb": "6a5f77a279f592cdeb55e9e172c5e59f",
       "animationprefix": "FairyFront",
@@ -201,7 +200,6 @@
       "animationframes": "11",
       "resource": "HermesFront_000.png",
       "backresource": "HermesBack_000.png"
-
     },
     {
       "author": "Stell",
