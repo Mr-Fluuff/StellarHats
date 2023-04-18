@@ -170,13 +170,14 @@
       "condition": "None",
       "name": "Fairy",
       "package": "Animated Hats",
-      "reshasha": "6a5f77a279f592cdeb55e9e172c5e59f",
-      //"reshashb": "480b58ee28ffdf2eb468e5d98fa323d0",
-      "animationprefix": "FairyBack",
-      //"backanimationprefix": "HermesBack",
+      "bounce": true,
+      "reshasha": "073a7b63dc5d8055e4ffcabd9baa03b7",
+      "reshashb": "6a5f77a279f592cdeb55e9e172c5e59f",
+      "animationprefix": "FairyFront",
+      "backanimationprefix": "FairyBack",
       "animationframes": "22",
-      "resource": "FairyBack_000.png"
-      //"backresource": "HermesBack_000.png"
+      "resource": "FairyFront_000.png",
+      "backresource": "FairyBack_000.png"
     },
     {
       "author": "Stell",
