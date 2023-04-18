@@ -165,7 +165,7 @@
       "resource": "5up_000.png"
     },
     {
-      "adaptive": true,
+      //"adaptive": true,
       "author": "Seagirl",
       "condition": "None",
       "name": "Fairy",
