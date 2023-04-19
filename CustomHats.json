@@ -35,6 +35,19 @@
     },
     {
       "adaptive": true,
+      "author": "Cheetah",
+      "climbresource": "Cobra_adaptive_climb.png",
+      "backresource": "Cobra_adaptive_back.png",
+      "condition": "None",
+      "name": "Cobra",
+      "package": "StellarHats",
+      "reshasha": "930bf33963763ebf7ce9892a13bfecf5",
+      "reshashc": "ea49881d666b43cd70e4213fb04f31fc",
+      "reshashb": "e90b0aafbeb3dc43a91ec61da81fae3b",
+      "resource": "Cobra_adaptive.png"
+    },
+    {
+      "adaptive": true,
       "author": "Fluff",
       "climbresource": "ferret_adaptive_climb.png",
       "backresource": "ferret_back_adaptive.png",
