@@ -48,6 +48,30 @@
     },
     {
       "adaptive": true,
+      "author": "Cheetah",
+      "climbresource": "Elephant_adaptive_climb.png",
+      "backresource": "Elephant_adaptive_back.png",
+      "condition": "None",
+      "name": "Elephant",
+      "package": "StellarHats",
+      "reshasha": "b3bc7af4c619e486458733ef166011be",
+      "reshashc": "36eb61bf5d807c0a771005ab0837f70b",
+      "reshashb": "6057eefaeb700ef274d32fadc598d049",
+      "resource": "Elephant_adaptive.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Mads",
+      "climbresource": "Umbrella_adaptive_climb.png",
+      "condition": "None",
+      "name": "Umbrella2",
+      "package": "StellarHats",
+      "reshasha": "95117fec67879882c03b51c4ad7abfcb",
+      "reshashc": "2256de55f3690535b9dfea6ea587fb50",
+      "resource": "Umbrella_adaptive.png"
+    },
+    {
+      "adaptive": true,
       "author": "Fluff",
       "climbresource": "ferret_adaptive_climb.png",
       "backresource": "ferret_back_adaptive.png",
