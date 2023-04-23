@@ -73,6 +73,17 @@
       "resource": "Umbrella_adaptive.png"
     },
     {
+      "author": "Ari_Sunshine",
+      "climbresource": "Yxritheslayer_climb.png",
+      "bounce": true,
+      "condition": "None",
+      "name": "Yxritheslayer",
+      "package": "StellarHats",
+      "reshasha": "0e57494720fcfedeb67dd80c0dc096b3",
+      "reshashc": "06cb3fdc8a2cccacd3ce9ee05f6f9e52",
+      "resource": "Yxritheslayer_bounce.png"
+    },
+    {
       "author": "Mads",
       "condition": "None",
       "name": "Pirate",
