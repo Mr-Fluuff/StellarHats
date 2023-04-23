@@ -63,12 +63,22 @@
       "adaptive": true,
       "author": "Mads",
       "climbresource": "Umbrella_adaptive_climb.png",
+      "backresource": "Umbrella_back_adaptive.png",
       "condition": "None",
       "name": "Umbrella2",
       "package": "StellarHats",
-      "reshasha": "95117fec67879882c03b51c4ad7abfcb",
+      "reshasha": "c7cd8617b81ba79cd3ad573e03360df8",
+      "reshashb": "457f9f87f62f334b878c24b9af330d23",
       "reshashc": "2256de55f3690535b9dfea6ea587fb50",
       "resource": "Umbrella_adaptive.png"
+    },
+    {
+      "author": "Mads",
+      "condition": "None",
+      "name": "Pirate",
+      "package": "StellarHats",
+      "reshasha": "33f1f0655745a31f3f1385c38c44f8ac",
+      "resource": "Pirate.png"
     },
     {
       "adaptive": true,
