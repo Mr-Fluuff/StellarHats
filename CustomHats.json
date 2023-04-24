@@ -254,9 +254,9 @@
       "condition": "None",
       "name": "Fire",
       "package": "Animated Hats",
-      "reshasha": "d157f6a33e72334222c44da2f4adae46",
+      "reshasha": "5a295dede78dbd700cd9ddd92f6b4162",
       "animationprefix": "Fire",
-      "animationframes": "17",
+      "animationframes": "32",
       "resource": "Fire_000.png"
     },
     {
