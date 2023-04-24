@@ -249,6 +249,17 @@
       "backresource": "FairyBack_000.png"
     },
     {
+      "adaptive": true,
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "Fire",
+      "package": "Animated Hats",
+      "reshasha": "d157f6a33e72334222c44da2f4adae46",
+      "animationprefix": "Fire",
+      "animationframes": "17",
+      "resource": "Fire_000.png"
+    },
+    {
       "author": "Stell",
       "condition": "None",
       "name": "Sad Cloud",
