@@ -47,6 +47,18 @@
       "resource": "Cobra_adaptive.png"
     },
     {
+      "author": "Cheetah",
+      "climbresource": "Corgi_climb.png",
+      "flipresource": "Corgi_flip.png",
+      "condition": "None",
+      "name": "Corgi",
+      "package": "StellarHats",
+      "reshasha": "5d664351c4c6aa4f1924321238b6611f",
+      "reshashc": "7e36f430528b4c49a4a71c915c4cc0ff",
+      "reshashf": "d5894f4ad04f0b3e91e624d3cd2b0722",
+      "resource": "Corgi.png"
+    },
+    {
       "adaptive": true,
       "author": "Cheetah",
       "climbresource": "Elephant_adaptive_climb.png",
