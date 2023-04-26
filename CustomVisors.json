@@ -1,0 +1,23 @@
+{
+  "visors": [
+    //"adaptive": false,
+    //"resource": "resourcefilename.png"
+    //"reshasha": "resourcehash",
+    //"flipresource": "flipfilename",
+    //"reshashf": "fliphash",
+    //"author": "",
+    //"condition": "None",
+    //"name": "name",
+    //"package": "StellarVisors",
+    //"animationprefix": "animationname"
+    //"animationframes": "numberofframes"
+    {
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "BlueHair",
+      "package": "StellarVisors",
+      "reshasha": "616d6d6bd62c292e455d53e537b5ccef",
+      "resource": "BlueHair.png"
+    }
+  ]
+}
