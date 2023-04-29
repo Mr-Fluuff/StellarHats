@@ -49,6 +49,17 @@
     {
       "adaptive": true,
       "author": "Cheetah",
+      "climbresource": "Imperus_climb_adaptive.png",
+      "condition": "None",
+      "name": "Imperus",
+      "package": "StellarHats",
+      "reshasha": "ea3d5487a4673de3bfcdcf783aaf3beb",
+      "reshashc": "9f6e523ef0019039fbe528fbf881ee88",
+      "resource": "Imperus_adaptive.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
       "climbresource": "Orc_climb.png",
       "condition": "None",
       "name": "Orc",
