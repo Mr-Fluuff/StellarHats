@@ -282,6 +282,19 @@
       "backresource": "FairyBack_000.png"
     },
     {
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "KaraCorvus",
+      "package": "Animated Hats",
+      "reshasha": "9e7357638519d9e5c321442bf7303bac",
+      "reshashb": "3784d55fd3b392452dc81aeeec207d09",
+      "animationprefix": "WitchHatFront",
+      "backanimationprefix": "WitchHatBack",
+      "animationframes": "51",
+      "resource": "WitchHatFront_000.png",
+      "backresource": "WitchHatBack_000.png"
+    },
+    {
       "adaptive": true,
       "author": "Cheetah",
       "condition": "None",
