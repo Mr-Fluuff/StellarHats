@@ -268,6 +268,16 @@
       "resource": "5up_000.png"
     },
     {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "PinkeeCrown",
+      "package": "Animated Hats",
+      "reshasha": "30f6c8fc2074d732b6652cb67894d7e8",
+      "animationprefix": "PinkeeCrown",
+      "animationframes": "72",
+      "resource": "PinkeeCrown_000.png"
+    },
+    {
       "adaptive": true,
       "author": "SeaGirl",
       "condition": "None",
