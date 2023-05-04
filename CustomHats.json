@@ -268,6 +268,17 @@
       "resource": "5up_000.png"
     },
     {
+      "adaptive": true,
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Samurai",
+      "package": "Animated Hats",
+      "reshasha": "e70aa6f6a085fcd1cb55a892cd18bef2",
+      "animationprefix": "Samurai",
+      "animationframes": "132",
+      "resource": "Samurai_000.png"
+    },
+    {
       "author": "Seagirl",
       "condition": "None",
       "name": "PinkeeCrown",
