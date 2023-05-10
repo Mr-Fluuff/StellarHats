@@ -196,6 +196,14 @@
       "resource": "moon_front.png"
     },
     {
+      "author": "SeaGirl",
+      "condition": "None",
+      "name": "JermRF",
+      "package": "StellarHats",
+      "reshasha": "1354067b41577e5398ab3877962990df",
+      "resource": "JermRF.png"
+    },
+    {
       "author": "Crayonvex",
       "climbresource": "fish_climb.png",
       "flipresource": "fish_flip.png",
@@ -268,16 +276,16 @@
       "resource": "5up_000.png"
     },
     //{
-      //"adaptive": true,
-      //"author": "Seagirl",
-      //"condition": "None",
-      //"name": "Samurai",
-      //"package": "Animated Hats",
-      //"reshasha": "e70aa6f6a085fcd1cb55a892cd18bef2",
-      //"animationprefix": "Samurai",
-      //"animationframes": "132",
-      //"resource": "Samurai_000.png"
-   // },
+    //"adaptive": true,
+    //"author": "Seagirl",
+    //"condition": "None",
+    //"name": "Samurai",
+    //"package": "Animated Hats",
+    //"reshasha": "e70aa6f6a085fcd1cb55a892cd18bef2",
+    //"animationprefix": "Samurai",
+    //"animationframes": "132",
+    //"resource": "Samurai_000.png"
+    // },
     {
       "author": "Seagirl",
       "condition": "None",
