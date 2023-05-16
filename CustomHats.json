@@ -62,6 +62,19 @@
     {
       "adaptive": true,
       "author": "Cheetah",
+      "climbresource": "Fox_climb_adaptive.png",
+      "backresource": "Fox_adaptive_back.png",
+      "condition": "None",
+      "name": "Fox",
+      "package": "StellarHats",
+      "reshasha": "338e22bd29fa908c3cb39e592f1b4c9d",
+      "reshashc": "3ac50101bbf692ca71177dcf9cad35f1",
+      "reshashb": "c0481c351e56024c2317f23783ea21f2",
+      "resource": "Fox_adaptive.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
       "climbresource": "Imperus_climb_adaptive.png",
       "condition": "None",
       "name": "Imperus",
