@@ -49,6 +49,32 @@
     {
       "adaptive": true,
       "author": "Cheetah",
+      "climbresource": "Shark_adaptive_climb.png",
+      "backresource": "Shark_adaptive_back.png",
+      "condition": "None",
+      "name": "Shark",
+      "package": "StellarHats",
+      "reshasha": "bbf68da49e8bc4f19e5fb19db66fa0b1",
+      "reshashc": "f0b561c513f4fe52e6ac4f8431609d08",
+      "reshashb": "5e3332e26a2fa3ca74e27a4fcaf06366",
+      "resource": "Shark_adaptive.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
+      "climbresource": "Boxer_climb.png",
+      "backresource": "Boxer_adaptive_back.png",
+      "condition": "None",
+      "name": "Boxer",
+      "package": "StellarHats",
+      "reshasha": "8917353273e3edc83343e48dac23c490",
+      "reshashc": "9a08fcd22347100aad288150d838495a",
+      "reshashb": "08e70dc0187fac9bbbd4cb607d672150",
+      "resource": "Boxer_adaptive.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
       "climbresource": "Octopus_climb_adaptive.png",
       "backresource": "Octopus_adaptive_back.png",
       "condition": "None",
