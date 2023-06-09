@@ -250,6 +250,14 @@
     {
       "author": "SeaGirl",
       "condition": "None",
+      "name": "Sleepy Pengu",
+      "package": "StellarHats",
+      "reshasha": "e397d4166209e4e5a2e1ace432f6577d",
+      "resource": "Sleepy_Pengu.png"
+    },
+    {
+      "author": "SeaGirl",
+      "condition": "None",
       "name": "JermRF",
       "package": "StellarHats",
       "reshasha": "1354067b41577e5398ab3877962990df",
