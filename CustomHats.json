@@ -335,17 +335,37 @@
       "animationframes": "10",
       "resource": "5up_000.png"
     },
-    //{
-    //"adaptive": true,
-    //"author": "Seagirl",
-    //"condition": "None",
-    //"name": "Samurai",
-    //"package": "Animated Hats",
-    //"reshasha": "e70aa6f6a085fcd1cb55a892cd18bef2",
-    //"animationprefix": "Samurai",
-    //"animationframes": "132",
-    //"resource": "Samurai_000.png"
-    // },
+    {
+      "adaptive": true,
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Samurai",
+      "package": "Animated Hats",
+      "reshasha": "0c58baecf348494488cc7d8a6cbdeeb3",
+      "animationprefix": "Samurai",
+      "animationframes": "131",
+      "resource": "Samurai_000.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Ozzaworld",
+      "package": "Animated Hats",
+      "reshasha": "348c7e714d23aba4f225b2d0dcca2bcd",
+      "animationprefix": "Ozzaworld",
+      "animationframes": "50",
+      "resource": "Ozzaworld_000.png"
+    },
+    {
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "GooglyEyes",
+      "package": "Animated Hats",
+      "reshasha": "acd1a6c0945487dbab015346120a0220",
+      "animationprefix": "GooglyEyes",
+      "animationframes": "40",
+      "resource": "GooglyEyes_000.png"
+    },
     {
       "author": "Seagirl",
       "condition": "None",
@@ -426,6 +446,19 @@
       "animationframes": "11",
       "resource": "HermesFront_000.png",
       "backresource": "HermesBack_000.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Chipseq",
+      "condition": "None",
+      "name": "Sign",
+      "package": "StellarHats",
+      "reshasha": "b36a2c7d84136c7ac3d8099344b4e908",
+      "reshashc": "048ee9d365e0ed0f5b8ee662019f4eb8",
+      "reshashf": "b36a2c7d84136c7ac3d8099344b4e908",
+      "resource": "sign_adaptive.png",
+      "climbresource": "sign_climb.png",
+      "flipresource": "sign_flip.png"
     },
     {
       "author": "Stell",
