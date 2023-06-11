@@ -346,16 +346,16 @@
       "animationframes": "131",
       "resource": "Samurai_000.png"
     },
-    {
-      "author": "Seagirl",
-      "condition": "None",
-      "name": "Ozzaworld",
-      "package": "Animated Hats",
-      "reshasha": "348c7e714d23aba4f225b2d0dcca2bcd",
-      "animationprefix": "Ozzaworld",
-      "animationframes": "50",
-      "resource": "Ozzaworld_000.png"
-    },
+    //{
+      //"author": "Seagirl",
+      //"condition": "None",
+      //"name": "Ozzaworld",
+      //"package": "Animated Hats",
+      //"reshasha": "348c7e714d23aba4f225b2d0dcca2bcd",
+      //"animationprefix": "Ozzaworld",
+      //"animationframes": "50",
+    //"resource": "Ozzaworld_000.png"
+    //},
     {
       "author": "Cheetah",
       "condition": "None",
