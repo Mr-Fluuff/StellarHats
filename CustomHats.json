@@ -346,14 +346,56 @@
       "animationframes": "131",
       "resource": "Samurai_000.png"
     },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Sleepy_Bee",
+      "package": "StellarHats",
+      "reshasha": "4cca9435048e2b33ea869c8a6b5a6341",
+      "resource": "Sleepy_Bee.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Pancakes",
+      "package": "StellarHats",
+      "reshasha": "d17c360e6fa4cbcbde8bcecc25b6e491",
+      "resource": "Pancakes.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Happy_Jelly",
+      "package": "StellarHats",
+      "reshasha": "1b8e5e7d0972184c9cc4e2cf63ddb5e9",
+      "resource": "Happy_Jelly.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Caramel_Apple",
+      "package": "StellarHats",
+      "reshasha": "0f59ea03b004637de4171d62ab67bae1",
+      "resource": "Caramel_Apple.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Sleepy_Jelly",
+      "package": "StellarHats",
+      "reshasha": "de87bdd6406440add395b95665b38f0a",
+      "resource": "Sleepy_Jelly.png"
+    },
     //{
-      //"author": "Seagirl",
-      //"condition": "None",
-      //"name": "Ozzaworld",
-      //"package": "Animated Hats",
-      //"reshasha": "348c7e714d23aba4f225b2d0dcca2bcd",
-      //"animationprefix": "Ozzaworld",
-      //"animationframes": "50",
+    //"author": "Seagirl",
+    //"condition": "None",
+    //"name": "Ozzaworld",
+    //"package": "Animated Hats",
+    //"reshasha": "348c7e714d23aba4f225b2d0dcca2bcd",
+    //"animationprefix": "Ozzaworld",
+    //"animationframes": "50",
     //"resource": "Ozzaworld_000.png"
     //},
     {
