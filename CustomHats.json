@@ -250,10 +250,12 @@
     {
       "author": "SeaGirl",
       "condition": "None",
-      "name": "Sleepy Pengu",
+      "name": "Sleepy_Pengu",
       "package": "StellarHats",
-      "reshasha": "e397d4166209e4e5a2e1ace432f6577d",
-      "resource": "Sleepy_Pengu.png"
+      "reshasha": "a42381f85ee4ed16bb3d9569a1934b80",
+      "resource": "Sleepy_Pengu_000.png",
+      "animationprefix": "Sleepy_Pengu",
+      "animationframes": "49"
     },
     {
       "author": "SeaGirl",
@@ -388,16 +390,16 @@
       "reshasha": "de87bdd6406440add395b95665b38f0a",
       "resource": "Sleepy_Jelly.png"
     },
-    //{
-    //"author": "Seagirl",
-    //"condition": "None",
-    //"name": "Ozzaworld",
-    //"package": "Animated Hats",
-    //"reshasha": "348c7e714d23aba4f225b2d0dcca2bcd",
-    //"animationprefix": "Ozzaworld",
-    //"animationframes": "50",
-    //"resource": "Ozzaworld_000.png"
-    //},
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Ozzaworld",
+      "package": "Animated Hats",
+      "reshasha": "4e7991a606c5f9ca906f8956b55d7c9d",
+      "animationprefix": "Ozzaworld",
+      "animationframes": "50",
+      "resource": "Ozzaworld_000.png"
+    },
     {
       "author": "Cheetah",
       "condition": "None",
