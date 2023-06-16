@@ -260,6 +260,16 @@
     {
       "author": "SeaGirl",
       "condition": "None",
+      "name": "Jazzy_Kate",
+      "package": "Animated Hats",
+      "reshasha": "d958a00d7b05e35f0175f951397f5495",
+      "resource": "Jazzy_Kate_000.png",
+      "animationprefix": "Jazzy_Kate",
+      "animationframes": "43"
+    },
+    {
+      "author": "SeaGirl",
+      "condition": "None",
       "name": "JermRF",
       "package": "StellarHats",
       "reshasha": "1354067b41577e5398ab3877962990df",
