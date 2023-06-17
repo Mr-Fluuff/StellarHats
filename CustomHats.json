@@ -366,7 +366,7 @@
       "reshasha": "cc112b29ca4a7c177f265f28f8a07d3c",
       "reshashf": "14e94d35be76437f8d034a42ad8e0d9c",
       "resource": "Sleepy_Bee.png",
-      "resourcef": "Sleepy_Bee_Flip.png"
+      "flipresource": "Sleepy_Bee_Flip.png"
     },
     {
       "author": "Seagirl",
@@ -376,7 +376,7 @@
       "reshasha": "54b5b4e5b9e7cf0e5f790386745648da",
       "reshashf": "eb91c5485478830f3080a8a8fef78d43",
       "resource": "Sleepy_Puppy.png",
-      "resourcef": "Sleepy_Puppy_Flip.png"
+      "flipresource": "Sleepy_Puppy_Flip.png"
     },
     {
       "author": "Seagirl",
@@ -386,7 +386,7 @@
       "reshasha": "27fd36004bcff718419c65eda7dc4a30",
       "reshashf": "78318cc98d476488fe71b7eb434d66a3",
       "resource": "Box_Cat.png",
-      "resourcef": "Box_Cat_Flip.png"
+      "flipresource": "Box_Cat_Flip.png"
     },
     {
       "author": "Seagirl",
