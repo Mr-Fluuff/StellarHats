@@ -363,8 +363,54 @@
       "condition": "None",
       "name": "Sleepy_Bee",
       "package": "StellarHats",
-      "reshasha": "4cca9435048e2b33ea869c8a6b5a6341",
-      "resource": "Sleepy_Bee.png"
+      "reshasha": "cc112b29ca4a7c177f265f28f8a07d3c",
+      "reshashf": "14e94d35be76437f8d034a42ad8e0d9c",
+      "resource": "Sleepy_Bee.png",
+      "resourcef": "Sleepy_Bee_Flip.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Sleepy_Puppy",
+      "package": "StellarHats",
+      "reshasha": "54b5b4e5b9e7cf0e5f790386745648da",
+      "reshashf": "eb91c5485478830f3080a8a8fef78d43",
+      "resource": "Sleepy_Puppy.png",
+      "resourcef": "Sleepy_Puppy_Flip.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Box_Cat",
+      "package": "StellarHats",
+      "reshasha": "27fd36004bcff718419c65eda7dc4a30",
+      "reshashf": "78318cc98d476488fe71b7eb434d66a3",
+      "resource": "Box_Cat.png",
+      "resourcef": "Box_Cat_Flip.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Macaroon",
+      "package": "StellarHats",
+      "reshasha": "278fcf3e124c77bd19d59913ab691c3c",
+      "resource": "Macaroon.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Heart_Cookie",
+      "package": "StellarHats",
+      "reshasha": "02504420d9a8ae252fa9ef061b69b240",
+      "resource": "Heart_Cookie.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Watermelon",
+      "package": "StellarHats",
+      "reshasha": "1b6ec5d030948a1a19c4074d02f989ca",
+      "resource": "Watermelon.png"
     },
     {
       "author": "Seagirl",
