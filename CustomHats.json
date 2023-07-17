@@ -584,11 +584,23 @@
       "author": "SeaGirl",
       "climbresource": "Pyro_climb.png",
       "condition": "None",
-      "name": "Pyro",
+      "name": "Pyromaniac53",
       "package": "StellarHats",
-      "reshasha": "18d739bc9d68fb7f2e5b66c4e71f2f9d",
+      "reshasha": "284710043d3b31b3ac5185d53249b1ec",
       "reshashc": "f60f5772a10064262f62184551e3fd0e",
-      "resource": "Pyro_front.png"
+      "animationprefix": "Pyromaniac53",
+      "animationframes": "90",
+      "resource": "Pyromaniac53_000.png"
+    },
+    {
+      "author": "SeaGirl",
+      "condition": "None",
+      "name": "SeaGirl13",
+      "package": "StellarHats",
+      "reshasha": "35e32d6e34235542dc5753e4f66e8cfe",
+      "animationprefix": "SeaGirl13",
+      "animationframes": "50",
+      "resource": "SeaGirl13_000.png"
     },
     {
       "author": "SeaGirl",
