@@ -170,15 +170,17 @@
       "resource": "Umbrella_adaptive.png"
     },
     {
-      "author": "Ari_Sunshine",
+      "author": "SeaGirl",
       "climbresource": "Yxritheslayer_climb.png",
       "bounce": true,
       "condition": "None",
       "name": "Yxritheslayer",
-      "package": "StellarHats",
-      "reshasha": "0e57494720fcfedeb67dd80c0dc096b3",
+      "package": "Animated Hats",
+      "reshasha": "8d5c4c06e452ad8ae3a933d78a162d79",
       "reshashc": "06cb3fdc8a2cccacd3ce9ee05f6f9e52",
-      "resource": "Yxritheslayer_bounce.png"
+      "animationprefix": "yxritheslayer",
+      "animationframes": "43",
+      "resource": "yxritheslayer_000.png"
     },
     {
       "author": "Mads",
@@ -586,10 +588,10 @@
       "condition": "None",
       "name": "Pyromaniac53",
       "package": "Animated Hats",
-      "reshasha": "284710043d3b31b3ac5185d53249b1ec",
+      "reshasha": "ae81df0df462e9bd5de14958ebe33f36",
       "reshashc": "f60f5772a10064262f62184551e3fd0e",
       "animationprefix": "Pyromaniac53",
-      "animationframes": "90",
+      "animationframes": "50",
       "resource": "Pyromaniac53_000.png"
     },
     {
@@ -597,7 +599,7 @@
       "condition": "None",
       "name": "SeaGirl13",
       "package": "Animated Hats",
-      "reshasha": "35e32d6e34235542dc5753e4f66e8cfe",
+      "reshasha": "7c4e14aebbc6888f9dd0d3b86ad7d5cc",
       "animationprefix": "SeaGirl13",
       "animationframes": "50",
       "resource": "SeaGirl13_000.png"
