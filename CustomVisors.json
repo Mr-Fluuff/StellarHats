@@ -14,10 +14,12 @@
     {
       "author": "Cheetah",
       "condition": "None",
-      "name": "BlueHair",
-      "package": "StellarVisors",
-      "reshasha": "616d6d6bd62c292e455d53e537b5ccef",
-      "resource": "BlueHair.png"
+      "name": "GooglyEyes",
+      "package": "Animated Visors",
+      "reshasha": "acd1a6c0945487dbab015346120a0220",
+      "animationprefix": "GooglyEyes",
+      "animationframes": "40",
+      "resource": "GooglyEyes_000.png"
     }
   ]
 }
