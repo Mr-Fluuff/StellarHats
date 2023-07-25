@@ -20,6 +20,16 @@
       "animationprefix": "GooglyEyes",
       "animationframes": "40",
       "resource": "GooglyEyes_000.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Ozzaworld",
+      "package": "Animated Hats",
+      "reshasha": "4e7991a606c5f9ca906f8956b55d7c9d",
+      "animationprefix": "Ozzaworld",
+      "animationframes": "50",
+      "resource": "Ozzaworld_000.png"
     }
   ]
 }
