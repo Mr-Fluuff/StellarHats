@@ -7,6 +7,7 @@
     //"reshashf": "fliphash",
     //"author": "",
     //"condition": "None",
+    //"infront": "true",
     //"name": "name",
     //"package": "StellarVisors",
     //"animationprefix": "animationname"
@@ -15,7 +16,6 @@
       "author": "Cheetah",
       "condition": "None",
       "name": "GooglyEyes",
-	    "behind": true,
       "package": "Animated Visors",
       "reshasha": "acd1a6c0945487dbab015346120a0220",
       "animationprefix": "GooglyEyes",
@@ -26,9 +26,11 @@
       "author": "Seagirl",
       "condition": "None",
       "name": "Ozzaworld",
-	    "behind": true,
-      "package": "StellarVisors",
+      "infront": true,
+      "package": "Animated Visors",
       "reshasha": "4e7991a606c5f9ca906f8956b55d7c9d",
+      "animationprefix": "Ozzaworld",
+      "animationframes": "50",
       "resource": "Ozzaworld_000.png"
     }
   ]
