@@ -474,19 +474,9 @@
       "name": "PinkeePlays",
       "package": "Animated Hats",
       "reshasha": "1d58a7c2d7f8581322749c6d324a9a22",
-      "animationprefix": "PinkeeCrown",
-      "animationframes": "71",
-      "resource": "PinkeeCrown_000.png"
-    },
-    {
-      "author": "Seagirl",
-      "condition": "None",
-      "name": "FlowerCrown",
-      "package": "Animated Hats",
-      "reshasha": "30f6c8fc2074d732b6652cb67894d7e8",
-      "animationprefix": "FlowerCrown",
+      "animationprefix": "PinkeePlays",
       "animationframes": "72",
-      "resource": "FlowerCrown_000.png"
+      "resource": "PinkeePlays_000.png"
     },
     {
       "adaptive": true,
