@@ -473,7 +473,7 @@
       "condition": "None",
       "name": "PinkeePlays",
       "package": "Animated Hats",
-      "reshasha": "1d58a7c2d7f8581322749c6d324a9a22",
+      "reshasha": "30f6c8fc2074d732b6652cb67894d7e8",
       "animationprefix": "PinkeePlays",
       "animationframes": "72",
       "resource": "PinkeePlays_000.png"
@@ -827,7 +827,7 @@
       "name": "Ilyssa",
       "package": "Developer Hats",
       "reshasha": "937ac737a58cf84cb6f9a562dddadc08",
-      "reshashb": "633e5b8308ec368dd942337ab7d18d24",
+      "reshashf": "633e5b8308ec368dd942337ab7d18d24",
       "reshashc": "1b12ed9abc5baf3012fc088f0f84adcd",
       "resource": "Mochi.png"
     },
