@@ -31,6 +31,70 @@
       "animationprefix": "Ozzaworld",
       "animationframes": "50",
       "resource": "Ozzaworld_000.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Battery",
+      "package": "Animated Visors",
+      "reshasha": "220ed7a34950f6bea7ac7fd1525318e1",
+      "animationprefix": "Battery",
+      "animationframes": "91",
+      "resource": "Battery_000.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "KAYO",
+      "package": "StellarVisors",
+      "reshasha": "0451f2508c78a700f06d30cc054658f0",
+      "resource": "KAYO.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "MusicNotes",
+      "package": "Animated Visors",
+      "reshasha": "267174820c6ddf9fb86f05e2e0725289",
+      "animationprefix": "MusicNotes",
+      "animationframes": "19",
+      "resource": "MusicNotes_000.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Wink",
+      "package": "Animated Visors",
+      "reshasha": "29976429f104a9e0ecb25abaae319271",
+      "animationprefix": "Wink",
+      "animationframes": "50",
+      "resource": "Wink_000.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Wipers",
+      "package": "Animated Visors",
+      "reshasha": "b05100918464d4db080b8011755d110d",
+      "animationprefix": "Wipers",
+      "animationframes": "20",
+      "resource": "Wipers_000.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Blehh",
+      "package": "StellarVisors",
+      "reshasha": "64b40ffef5e140179effb34ad3f4f766",
+      "resource": "Blehh.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "TVStatic",
+      "package": "StellarVisors",
+      "reshasha": "e9f176275340a89e11330eeca1361e2b",
+      "resource": "TVStatic.png"
     }
   ]
 }
