@@ -65,10 +65,41 @@
       "condition": "None",
       "name": "Wink",
       "package": "Animated Visors",
-      "reshasha": "29976429f104a9e0ecb25abaae319271",
+      "reshasha": "0d254ccd01b0a90c3c3b85f9f26e5e46",
       "animationprefix": "Wink",
       "animationframes": "50",
       "resource": "Wink_000.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Blink",
+      "package": "Animated Visors",
+      "reshasha": "cb3c8cbd23d843ac1a4b0da63b257552",
+      "animationprefix": "Blink",
+      "animationframes": "35",
+      "resource": "Blink_000.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "BlinkBlush",
+      "package": "Animated Visors",
+      "infront": "true",
+      "reshasha": "a1335ca7556cd50d3a60295212e679a6",
+      "animationprefix": "BlinkBlush",
+      "animationframes": "35",
+      "resource": "BlinkBlush_000.png"
+    },
+    {
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "Fishies",
+      "package": "Animated Visors",
+      "reshasha": "84f04c8d800fd5c149123c1acd38646e",
+      "animationprefix": "Fishies",
+      "animationframes": "53",
+      "resource": "Fishies_000.png"
     },
     {
       "author": "Seagirl",
