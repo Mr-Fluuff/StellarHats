@@ -262,6 +262,17 @@
     {
       "author": "SeaGirl",
       "condition": "None",
+      "adaptive": true,
+      "name": "Cat_Hat",
+      "package": "Animated Hats",
+      "reshasha": "3f6b0b5b461a9218669b916e82240aa2",
+      "resource": "Cat_Hat_000.png",
+      "animationprefix": "Cat_Hat",
+      "animationframes": "69"
+    },
+    {
+      "author": "SeaGirl",
+      "condition": "None",
       "name": "Jazzy_Kate",
       "package": "Animated Hats",
       "reshasha": "d958a00d7b05e35f0175f951397f5495",
