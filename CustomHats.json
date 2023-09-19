@@ -49,6 +49,56 @@
     {
       "adaptive": true,
       "author": "Cheetah",
+      "climbresource": "Dino_adaptive_climb.png",
+      "backresource": "Dino_adaptive_back.png",
+      "condition": "None",
+      "name": "Dino",
+      "package": "StellarHats",
+      "reshasha": "9b8593c713e7c5f157c86d082be4fb84",
+      "reshashc": "0e93eb2c1f60594eecc1bf6f67b5ccb1",
+      "reshashb": "351791fb13f34b348a5adfa090ebac50",
+      "resource": "Dino_adaptive.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
+      "climbresource": "capybara_adaptive_climb.png",
+      "condition": "None",
+      "name": "CapyBara",
+      "package": "StellarHats",
+      "reshasha": "c2e4fb10e4f5320eea9681be1d41ae42",
+      "reshashc": "2c6198184b48ea42f073d2db45c8d03c",
+      "resource": "capybara_adaptive.png"
+    },
+    {
+      "author": "Cheetah",
+      "backresource": "AlabamaVest_back.png",
+      "condition": "None",
+      "name": "Alabama",
+      "package": "StellarHats",
+      "reshasha": "d8d1ed72a07ad654f15c5072d21ebe51",
+      "reshashb": "2d9d36531982c0f7e1bb432ee32b7af0",
+      "resource": "AlabamaVest.png"
+    },
+    {
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "Pumpkin",
+      "package": "StellarHats",
+      "reshasha": "752936dd14f2cd1f56b76bd5e2470953",
+      "resource": "Pumpkin.png"
+    },
+    {
+      "author": "sirenvibez",
+      "condition": "None",
+      "name": "Clyde",
+      "package": "StellarHats",
+      "reshasha": "e74b311f2baba79a8b1df7368572ad1f",
+      "resource": "clydehat.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
       "climbresource": "Shark_adaptive_climb.png",
       "backresource": "Shark_adaptive_back.png",
       "condition": "None",
