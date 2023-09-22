@@ -62,13 +62,13 @@
     {
       "adaptive": true,
       "author": "Cheetah",
-      "climbresource": "capybara_adaptive_climb.png",
+      "climbresource": "CapyBara_climb.png",
       "condition": "None",
       "name": "CapyBara",
       "package": "StellarHats",
       "reshasha": "c2e4fb10e4f5320eea9681be1d41ae42",
       "reshashc": "2c6198184b48ea42f073d2db45c8d03c",
-      "resource": "capybara_adaptive.png"
+      "resource": "CapyBara.png"
     },
     {
       "author": "Cheetah",
