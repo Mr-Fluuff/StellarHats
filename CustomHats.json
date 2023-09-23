@@ -112,6 +112,27 @@
     {
       "adaptive": true,
       "author": "Cheetah",
+      "climbresource": "Goat_adaptive_climb.png",
+      "backresource": "Goat_back_adaptive.png",
+      "condition": "None",
+      "name": "Goat",
+      "package": "StellarHats",
+      "reshasha": "669fb43c5c19d3a1248d31ea30c55089",
+      "reshashc": "4322e386999aa71fdc0075c15b79fbf9",
+      "reshashb": "59c8f39538ce3f214e18cb479b0d450b",
+      "resource": "Goat_adaptive.png"
+    },
+    {
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "Fluuffwu",
+      "package": "Developer Hats",
+      "reshasha": "fdd49082240cc4067808628ac3f38d92",
+      "resource": "Fluuffwu.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
       "climbresource": "Boxer_climb.png",
       "backresource": "Boxer_adaptive_back.png",
       "condition": "None",
@@ -288,6 +309,14 @@
       "reshasha": "f7b0be1fee43fcc402c41cd8660b79d1",
       "reshashc": "c2f7ade7707c7b87b78b22a72f629374",
       "resource": "snail_front.png"
+    },
+    {
+      "author": "SeaGirl",
+      "condition": "None",
+      "name": "CrazyChris576",
+      "package": "StellarHats",
+      "reshasha": "71aa5e161e9243492060c4fded307a5b",
+      "resource": "CrazyChris576.png"
     },
     {
       "author": "SeaGirl",
