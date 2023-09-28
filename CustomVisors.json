@@ -23,6 +23,16 @@
       "resource": "GooglyEyes_000.png"
     },
     {
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "Jack_O_Lantern",
+      "package": "Animated Visors",
+      "reshasha": "7b437580accef9ba450a377f0a5c3d17",
+      "animationprefix": "Jack_O_Lantern",
+      "animationframes": "40",
+      "resource": "Jack_O_Lantern_000.png"
+    },
+    {
       "author": "Seagirl",
       "condition": "None",
       "name": "Ozzaworld",

@@ -352,6 +352,17 @@
     {
       "author": "SeaGirl",
       "condition": "None",
+      "adaptive": true,
+      "name": "FairyFox09",
+      "package": "Animated Hats",
+      "reshasha": "21aacf645d8e41f4c56be06a46ce4b60",
+      "resource": "FairyFox09_000.png",
+      "animationprefix": "FairyFox09",
+      "animationframes": "43"
+    },
+    {
+      "author": "SeaGirl",
+      "condition": "None",
       "name": "Jazzy_Kate",
       "package": "Animated Hats",
       "reshasha": "d958a00d7b05e35f0175f951397f5495",
