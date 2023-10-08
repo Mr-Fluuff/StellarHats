@@ -1,0 +1,39 @@
+{
+  "pets": [
+    //{
+    //"adaptive": false,
+    //"author": "",
+    //"condition": "None",
+    //"name": "name",
+    //"package": "StellarPets",
+    //"reshasha": "resourcehash",
+    //"resource": "resourcefilename"
+    //"idleanimationprefix": "animationname"
+    //"walkanimationprefix": "animationname"
+    //"sadanimationprefix": "animationname"
+    //"scaredanimationprefix": "animationname"
+    //"petanimationprefix": "animationname"
+
+    //"idleanimationframes": "numberofframes"
+
+    //},
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Pengu",
+      "package": "StellarPets",
+      "reshasha": "59f88eab9896d7d183107bf1b36fe1cb",
+      "idleanimationprefix": "Pengu_Idle",
+      "walkanimationprefix": "Pengu_Walk",
+      "sadanimationprefix": "Pengu_Sad",
+      "scaredanimationprefix": "Pengu_Scared",
+      "petanimationprefix": "Pengu_Pet",
+      "idleanimationframes": "26",
+      "walkanimationframes": "8",
+      "sadanimationframes": "8",
+      "scaredanimationframes": "8",
+      "petanimationframes": "8",
+      "resource": "Pengu_Idle_000.png"
+    }
+  ]
+}
