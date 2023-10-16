@@ -203,6 +203,17 @@
       "resource": "Gek_adaptive.png"
     },
     {
+      "adaptive": true,
+      "author": "Cheetah",
+      "backresource": "Owl_adaptive_back.png",
+      "condition": "None",
+      "name": "Owl",
+      "package": "StellarHats",
+      "reshasha": "074f3fe60ba7ce6d5b8c9e556fd22f60",
+      "reshashb": "d27bd298f7d2daed25f92e29db3eef82",
+      "resource": "Owl_adaptive.png"
+    },
+    {
       "author": "Cheetah",
       "climbresource": "Corgi_climb.png",
       "flipresource": "Corgi_flip.png",
@@ -317,6 +328,22 @@
       "package": "StellarHats",
       "reshasha": "71aa5e161e9243492060c4fded307a5b",
       "resource": "CrazyChris576.png"
+    },
+    {
+      "author": "SeaGirl",
+      "condition": "None",
+      "name": "Pogkin",
+      "package": "StellarHats",
+      "reshasha": "85a1e16fddea1ded5d2e359210a0c41e",
+      "resource": "Pogkin.png"
+    },
+    {
+      "author": "SeaGirl",
+      "condition": "None",
+      "name": "Candycorn",
+      "package": "StellarHats",
+      "reshasha": "e7c5a0ae79491ccd01b0fabd66c02ecd",
+      "resource": "Candycorn.png"
     },
     {
       "author": "SeaGirl",
