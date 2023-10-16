@@ -35,6 +35,15 @@
     },
     {
       "adaptive": true,
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Soup",
+      "package": "StellarHats",
+      "reshasha": "d0491839aa28880f4a13233db3bc27c6",
+      "resource": "Soup_adaptive.png"
+    },
+    {
+      "adaptive": true,
       "author": "Cheetah",
       "climbresource": "Cobra_adaptive_climb.png",
       "backresource": "Cobra_adaptive_back.png",

@@ -61,16 +61,6 @@
       "resource": "KAYO.png"
     },
     {
-      "adaptive": true,
-      "infront": true,
-      "author": "Seagirl",
-      "condition": "None",
-      "name": "Soup",
-      "package": "StellarVisors",
-      "reshasha": "d0491839aa28880f4a13233db3bc27c6",
-      "resource": "Soup_adaptive.png"
-    },
-    {
       "infront": true,
       "author": "Seagirl",
       "condition": "None",
