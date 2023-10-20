@@ -367,11 +367,11 @@
     {
       "author": "SeaGirl",
       "condition": "None",
-      "name": "Sleepy_Pengu",
-      "package": "Animated Hats",
+      "name": "StellWasHere",
+      "package": "Developer Hats",
       "reshasha": "a42381f85ee4ed16bb3d9569a1934b80",
-      "resource": "Sleepy_Pengu_000.png",
-      "animationprefix": "Sleepy_Pengu",
+      "resource": "StellWasHere_000.png",
+      "animationprefix": "StellWasHere",
       "animationframes": "49"
     },
     {
@@ -702,12 +702,12 @@
     {
       "author": "SeaGirl",
       "condition": "None",
-      "name": "Stell",
-      "package": "Developer Hats",
+      "name": "Pengu",
+      "package": "Animated Hats",
       "reshasha": "3d6c5b1d9f95b4470ce6ca3a4aa6fa8c",
-      "animationprefix": "Stell",
+      "animationprefix": "Pengu",
       "animationframes": "24",
-      "resource": "Stell_000.png"
+      "resource": "Pengu_000.png"
     },
     {
       "author": "SeaGirl",
