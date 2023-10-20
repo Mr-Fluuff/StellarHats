@@ -23,6 +23,14 @@
       "resource": "GooglyEyes_000.png"
     },
     {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Mochi_Mask",
+      "package": "StellarVisors",
+      "reshasha": "a5d287a750f5349c7e77f1a4bbb056d1",
+      "resource": "Mochi_Mask.png"
+    },
+    {
       "author": "Cheetah",
       "condition": "None",
       "name": "Jack_O_Lantern",
