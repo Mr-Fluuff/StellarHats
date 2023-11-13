@@ -17,6 +17,14 @@
     {
       "author": "Seagirl",
       "condition": "None",
+      "name": "Pinkeeplays",
+      "package": "StellarPlates",
+      "reshasha": "53a122674c78528ba47debbb86b31622",
+      "resource": "Pinkeeplays.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
       "name": "Fluuffwu",
       "package": "Developer Plates",
       "reshasha": "0885a3e447f23a9345b097a23422dda7",

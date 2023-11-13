@@ -58,6 +58,71 @@
     {
       "adaptive": true,
       "author": "Cheetah",
+      "climbresource": "Hippo_adaptive_climb.png",
+      "backresource": "Hippo_adaptive_back.png",
+      "condition": "None",
+      "name": "Hippo",
+      "package": "StellarHats",
+      "reshasha": "b8d1c7ad8f812ef27547844b5949c141",
+      "reshashc": "119a42ee1dd1b0769bdd72097a9e5b00",
+      "reshashb": "978cd814deeaee1e7e87212a8fd90840",
+      "resource": "Hippo_adaptive.png"
+    },
+    {
+      "author": "Cheetah",
+      "climbresource": "Jester_climb.png",
+      "condition": "None",
+      "name": "Jester",
+      "package": "StellarHats",
+      "reshasha": "45e4cb127d1b54ba15a0b1dc90964786",
+      "reshashc": "6e3445d78e60ff89992ecc3f89eb1799",
+      "resource": "Jester.png"
+    },
+    {
+      "author": "Cheetah",
+      "climbresource": "PB_Cup_climb.png",
+      "condition": "None",
+      "name": "PB_Cup",
+      "package": "StellarHats",
+      "reshasha": "cd4eaf87318b0ea5ad860c156a6718e7",
+      "reshashc": "54fbac448b908088f4fbc253565042e5",
+      "resource": "PB_Cup.png"
+    },
+    {
+      "bounce": true,
+      "author": "Cheetah",
+      "climbresource": "MapleSyrup_bounce_climb.png",
+      "condition": "None",
+      "name": "MapleSyrup",
+      "package": "StellarHats",
+      "reshasha": "96cf7e8dbf00e91a77ab1a728ac0395b",
+      "reshashc": "bdb01190ca0796dd563535a069298a4c",
+      "resource": "MapleSyrup_bounce.png"
+    },
+    {
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "TurkeyGlasses",
+      "package": "StellarHats",
+      "reshasha": "02cb0891d627563afa010215dc310c6e",
+      "resource": "TurkeyGlasses.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
+      "climbresource": "Cthulu_adaptive_climb.png",
+      "backresource": "Cthulu_adaptive_back.png",
+      "condition": "None",
+      "name": "Cthulu",
+      "package": "StellarHats",
+      "reshasha": "01c3a1387e7712e305fc959a9efe575c",
+      "reshashc": "2f0220f0dc35485e0ac2c2c8b49ad50f",
+      "reshashb": "2e083a5ad058a03181af2ad6f816b9b2",
+      "resource": "Cthulu_adaptive.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
       "climbresource": "Dino_adaptive_climb.png",
       "backresource": "Dino_adaptive_back.png",
       "condition": "None",
@@ -594,16 +659,6 @@
       "animationprefix": "Ozzaworld",
       "animationframes": "50",
       "resource": "Ozzaworld_000.png"
-    },
-    {
-      "author": "Cheetah",
-      "condition": "None",
-      "name": "GooglyEyes",
-      "package": "Animated Hats",
-      "reshasha": "acd1a6c0945487dbab015346120a0220",
-      "animationprefix": "GooglyEyes",
-      "animationframes": "40",
-      "resource": "GooglyEyes_000.png"
     },
     {
       "author": "Seagirl",

@@ -23,6 +23,27 @@
       "resource": "GooglyEyes_000.png"
     },
     {
+      "adaptive": true,
+      "infront": true,
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "GoofyGlasses",
+      "package": "Animated Visors",
+      "reshasha": "23cd8fb3a36a34a1127c3783969ac339",
+      "animationprefix": "GoofyGlasses",
+      "animationframes": "64",
+      "resource": "GoofyGlasses_000.png"
+    },
+    {
+      "infront": true,
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "Wendigo",
+      "package": "StellarVisors",
+      "reshasha": "0ecd8a281e46df8fcc421155a9e35c69",
+      "resource": "Wendigo.png"
+    },
+    {
       "author": "Seagirl",
       "condition": "None",
       "name": "Mochi_Mask",
