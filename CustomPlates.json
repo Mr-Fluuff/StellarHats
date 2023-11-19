@@ -17,6 +17,30 @@
     {
       "author": "Seagirl",
       "condition": "None",
+      "name": "SeaGirl13",
+      "package": "StellarPlates",
+      "reshasha": "bc939dc4a196ce1da1bf68d729161883",
+      "resource": "SeaGirl13.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Kwix",
+      "package": "StellarPlates",
+      "reshasha": "6fe5201e58c8eb977a2d01f668d71b80",
+      "resource": "Kwix.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "19",
+      "package": "StellarPlates",
+      "reshasha": "24eaddd8ebbbf10c12908de9d0a63737",
+      "resource": "19.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
       "name": "Pinkeeplays",
       "package": "StellarPlates",
       "reshasha": "53a122674c78528ba47debbb86b31622",
