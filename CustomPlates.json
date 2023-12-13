@@ -25,6 +25,14 @@
     {
       "author": "Seagirl",
       "condition": "None",
+      "name": "Clouds",
+      "package": "StellarPlates",
+      "reshasha": "947c48daa8789c740499068b30e82122",
+      "resource": "Clouds.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
       "name": "Kwix",
       "package": "StellarPlates",
       "reshasha": "6fe5201e58c8eb977a2d01f668d71b80",
