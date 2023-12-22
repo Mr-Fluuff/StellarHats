@@ -56,6 +56,16 @@
       "resource": "Cobra_adaptive.png"
     },
     {
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "Salt",
+      "package": "Animated Hats",
+      "reshasha": "727c5fcc6f193a1e35c54672373197ea",
+      "animationprefix": "Salt",
+      "animationframes": "20",
+      "resource": "Salt_000.png"
+    },
+    {
       "adaptive": true,
       "author": "Cheetah",
       "climbresource": "Hippo_adaptive_climb.png",
@@ -67,6 +77,54 @@
       "reshashc": "119a42ee1dd1b0769bdd72097a9e5b00",
       "reshashb": "978cd814deeaee1e7e87212a8fd90840",
       "resource": "Hippo_adaptive.png"
+    },
+    {
+      "author": "Cheetah",
+      "climbresource": "Fly1_climb.png",
+      "backresource": "Fly1_back.png",
+      "condition": "None",
+      "name": "Fly1",
+      "package": "StellarHats",
+      "reshasha": "d248aa7471f206428d791083391f28c2",
+      "reshashc": "332523bdfa75733af8f2171c3e1bbe4b",
+      "reshashb": "e3005be9dfb89f7ae9f1f70c78613e96",
+      "resource": "Fly1.png"
+    },
+    {
+      "author": "Cheetah",
+      "climbresource": "Sombrero_climb.png",
+      "backresource": "Sombrero_back.png",
+      "condition": "None",
+      "name": "Sombrero",
+      "package": "StellarHats",
+      "reshasha": "701f3977ad355123b7ea30730e5f3d43",
+      "reshashc": "9f60a2929b2c5a783333843d1a0aaa79",
+      "reshashb": "740a194093f4b5af37790662ad1e645b",
+      "resource": "Sombrero.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
+      "climbresource": "Buggy_adaptive_climb.png",
+      "backresource": "Buggy_adaptive_back.png",
+      "condition": "None",
+      "name": "Buggy",
+      "package": "StellarHats",
+      "reshasha": "00565210008e8517e30f90ac0ee2adfb",
+      "reshashc": "327884959400205c7020305184abe9f1",
+      "reshashb": "f9a940099a39760eba09c5c9cdf9497b",
+      "resource": "Buggy_adaptive.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
+      "climbresource": "Deer_adaptive_climb.png",
+      "condition": "None",
+      "name": "Deer",
+      "package": "StellarHats",
+      "reshasha": "68ca73fdd28ea912a5c8c9bc57e2141d",
+      "reshashc": "b4d7a22dbdc9ca09ade4b98688cf008a",
+      "resource": "Deer_adaptive.png"
     },
     {
       "author": "Cheetah",
