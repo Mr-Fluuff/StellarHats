@@ -385,16 +385,16 @@
     },
     {
       "author": "SeaGirl",
-      "climbresource": "Yxritheslayer_climb.png",
+      "climbresource": "Yuritheslayer_climb.png",
       "bounce": true,
       "condition": "None",
-      "name": "yxritheslayer",
+      "name": "yuritheslayer",
       "package": "Animated Hats",
       "reshasha": "8d5c4c06e452ad8ae3a933d78a162d79",
       "reshashc": "06cb3fdc8a2cccacd3ce9ee05f6f9e52",
-      "animationprefix": "yxritheslayer",
+      "animationprefix": "yuritheslayer",
       "animationframes": "70",
-      "resource": "yxritheslayer_000.png"
+      "resource": "yuritheslayer_000.png"
     },
     {
       "author": "Mads",
