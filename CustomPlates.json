@@ -25,6 +25,22 @@
     {
       "author": "Seagirl",
       "condition": "None",
+      "name": "CrazyChris576",
+      "package": "StellarPlates",
+      "reshasha": "fba30b8023cdca4801cbea69b5bd1f13",
+      "resource": "CrazyChris576.png"
+    },
+    {
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "Mads",
+      "package": "StellarPlates",
+      "reshasha": "14baf4fdb87e1a62205621ee5e721b36",
+      "resource": "Mads.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
       "name": "Clouds",
       "package": "StellarPlates",
       "reshasha": "947c48daa8789c740499068b30e82122",
