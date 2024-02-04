@@ -35,6 +35,26 @@
     },
     {
       "adaptive": true,
+      "author": "Axo",
+      "bounce": true,
+      "climbresource": "fedora_adaptive_climb.png",
+      "condition": "None",
+      "name": "Fedora",
+      "package": "StellarHats",
+      "reshasha": "59f1aebf081ab368a08439e5e45b1a4b",
+      "reshashc": "dfa461942dcd40766ed3a57debf3e46f",
+      "resource": "fedora_adaptive_bounce.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "The_Messenger",
+      "package": "StellarHats",
+      "reshasha": "3fb6d650e4f0ac3c35bdb7f61968b4e3",
+      "resource": "TheMessenger.png"
+    },
+    {
+      "adaptive": true,
       "author": "Seagirl",
       "condition": "None",
       "name": "Soup",
