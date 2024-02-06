@@ -77,6 +77,18 @@
     },
     {
       "author": "Cheetah",
+      "climbresource": "VDayTophat_climb.png",
+      "backresource": "VDayTophat_back.png",
+      "condition": "None",
+      "name": "VDayTopHat",
+      "package": "StellarHats",
+      "reshasha": "4d7c9caecd5d507016e1d50e3eca9b08",
+      "reshashc": "998c342955565b48b61b794f247c52ea",
+      "reshashb": "58df6fd7d34f8f35de9487e573d69de7",
+      "resource": "VDayTophat.png"
+    },
+    {
+      "author": "Cheetah",
       "condition": "None",
       "name": "Salt",
       "package": "Animated Hats",
