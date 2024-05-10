@@ -532,6 +532,16 @@
     {
       "author": "SeaGirl",
       "condition": "None",
+      "name": "AstarriApple",
+      "package": "Animated Hats",
+      "reshasha": "d3591d0f937aaa6a179157c7e54a385e",
+      "resource": "AstarriApple_000.png",
+      "animationprefix": "AstarriApple",
+      "animationframes": "24"
+    },
+    {
+      "author": "SeaGirl",
+      "condition": "None",
       "adaptive": true,
       "name": "Cat_Hat",
       "package": "Animated Hats",
