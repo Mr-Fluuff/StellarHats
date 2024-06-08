@@ -76,6 +76,28 @@
       "resource": "Cobra_adaptive.png"
     },
     {
+      "adaptive": true,
+      "author": "Cheetah",
+      "backresource": "Cheetah_back_adaptive.png",
+      "condition": "None",
+      "name": "Cheetah",
+      "package": "StellarHats",
+      "reshasha": "2f18807013b7b9fc22d582dd0fefe620",
+      "reshashb": "f20a75d614700410f800ff78679ca744",
+      "resource": "Cheetah_adaptive.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
+      "backresource": "Dragon_back_adaptive.png",
+      "condition": "None",
+      "name": "Dragon",
+      "package": "StellarHats",
+      "reshasha": "7aecb8c05a5be67cfd4d92bc762ebb5b",
+      "reshashb": "7469235b18582e71f25a1c5b556b8f72",
+      "resource": "Dragon_adaptive.png"
+    },
+    {
       "author": "Cheetah",
       "climbresource": "VDayTophat_climb.png",
       "backresource": "VDayTophat_back.png",
