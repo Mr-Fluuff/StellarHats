@@ -54,6 +54,14 @@
       "resource": "TheMessenger.png"
     },
     {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "MoonCrown",
+      "package": "StellarHats",
+      "reshasha": "3a3934ffe5649780d91b0fde6c704c36",
+      "resource": "mooncrown.png"
+    },
+    {
       "adaptive": true,
       "author": "Seagirl",
       "condition": "None",
