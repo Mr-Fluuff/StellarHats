@@ -97,6 +97,17 @@
     {
       "adaptive": true,
       "author": "Cheetah",
+      "backresource": "OTTER_adaptive_back.png",
+      "condition": "None",
+      "name": "Otter",
+      "package": "StellarHats",
+      "reshasha": "138c28f30fa073306a97c038053e639f",
+      "reshashb": "7714bb75a1a4f5bb905b5d1b6a0b479d",
+      "resource": "OTTER_adaptive.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Cheetah",
       "backresource": "Dragon_back_adaptive.png",
       "condition": "None",
       "name": "Dragon",
