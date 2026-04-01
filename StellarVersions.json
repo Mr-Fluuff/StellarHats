@@ -7,6 +7,10 @@
     {
 	  "StellarVersion": "2026.3.20",
 	  "AmongUsVersions": ["17.2.1", "17.2.2"]
+	},
+	{
+	  "StellarVersion": "2026.3.31",
+	  "AmongUsVersions": ["17.2.1", "17.2.2"]
 	}
   ]
 }
