@@ -19,6 +19,14 @@
 	{
 	  "StellarVersion": "2026.6.2",
 	  "AmongUsVersions": ["17.3"]
+	},
+	{
+	  "StellarVersion": "2026.6.8",
+	  "AmongUsVersions": ["17.3"]
+	},
+	{
+	  "StellarVersion": "2026.6.11",
+	  "AmongUsVersions": ["17.4"]
 	}
   ]
 }
